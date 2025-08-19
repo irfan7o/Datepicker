@@ -44,6 +44,7 @@ Datepicker/
 
 ## Screenshots
 <img width="1600" height="898" alt="Screenshot 2025-08-19 130838" src="https://github.com/user-attachments/assets/2155a59f-ac8f-4968-84b2-39b064b74361" />
+<img width="1633" height="907" alt="Screenshot 2025-08-19 131312" src="https://github.com/user-attachments/assets/135945c4-14f0-4675-acdc-5b8fe983accc" />
 
 
 ## License
