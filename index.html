@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modern Responsive Datepicker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="datepicker-container">
+    <label class="datepicker-label" for="datepicker-input">Select Date</label>
+    <input type="text" id="datepicker-input" class="datepicker-input" readonly placeholder="Choose a date..." />
+    <div class="datepicker-calendar" id="datepicker-calendar">
+      <div class="datepicker-header">
+        <button class="datepicker-arrow" id="datepicker-prev">&#8592;</button>
+        <span class="datepicker-month" id="datepicker-month"></span>
+        <button class="datepicker-arrow" id="datepicker-next">&#8594;</button>
+      </div>
+      <div class="datepicker-days" id="datepicker-days"></div>
+      <div class="datepicker-dates" id="datepicker-dates"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
