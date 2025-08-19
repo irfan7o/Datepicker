@@ -43,7 +43,8 @@ Datepicker/
 - JavaScript (Vanilla)
 
 ## Screenshots
-![Datepicker Screenshot](screenshot.png)
+<img width="1600" height="898" alt="Screenshot 2025-08-19 130838" src="https://github.com/user-attachments/assets/2155a59f-ac8f-4968-84b2-39b064b74361" />
+
 
 ## License
 MIT
